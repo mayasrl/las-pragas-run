@@ -6,21 +6,6 @@ Não está implementado todas as 10 pragas e algumas estão unidas em um a únic
 
 ---
 
-## 📋 Sumário
-
-- [Sobre o Jogo](#-sobre-o-jogo)  
-- [Funcionalidades](#-funcionalidades)  
-- [Screenshots](#-screenshots)  
-- [Instalação e Execução](#-instalação-e-execução)  
-- [Como Jogar](#-como-jogar)  
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)  
-- [Estrutura do Repositório](#-estrutura-do-repositório)  
-- [Equipe](#-equipe)  
-- [Licença](#-licença)  
-- [Contato](#-contato)  
-
----
-
 ## 🎮 Sobre o Jogo
 
 Em **Las Pragas Run**, cada fase é inspirada em uma das dez pragas que acometeram o Egito para convencer o faraó a libertar os israelitas. À medida que avança, o jogador enfrenta cenários afetados por sangue, rãs, piolhos, moscas, peste, úlceras, granizo, gafanhotos, escuridão e, finalmente, a morte dos primogênitos. O projeto foi desenvolvido em equipe como avaliação prática da disciplina “Programação de Dispositivos Móveis”, aplicando conceitos de design de interfaces táteis, otimização e gerenciamento de eventos em tempo real.
@@ -42,9 +27,8 @@ Em **Las Pragas Run**, cada fase é inspirada em uma das dez pragas que acometer
 
 ![image](https://github.com/user-attachments/assets/ca29a34c-7aa4-472f-92a6-9b764e587f6e)
 
-
 ---
 
-## 🚀 Instalação e Execução
-
-Clique no link para jogar: mayasrl.github.io/las-pragas-run/
+<p align="center">
+  Desenvolvido com 💛 por <strong>@mayasrl e equipe</strong>.
+</p>

@@ -40,6 +40,7 @@ Em **Las Pragas Run**, cada fase é inspirada em uma das dez pragas que acometer
 
 ## 📷 Screenshots
 
+![image](https://github.com/user-attachments/assets/ca29a34c-7aa4-472f-92a6-9b764e587f6e)
 
 
 ---
